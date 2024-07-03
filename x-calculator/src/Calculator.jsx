@@ -25,7 +25,7 @@ const Calculator = () => {
   };
 
   return (
-    <body>
+    <div>
       <div className={styles.calculator}>
         <h1>React Calculator</h1>
         <input
@@ -74,7 +74,7 @@ const Calculator = () => {
           ))}
         </div>
       </div>
-    </body>
+    </div>
   );
 };
 
