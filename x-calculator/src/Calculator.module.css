@@ -41,3 +41,7 @@
   border: 1px solid #ccc;
   border-radius: 5px;
 }
+.result {
+  height: 40px;
+  width: 70px;
+}
